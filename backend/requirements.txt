@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+psycopg[binary]
+ollama
+sqlglot
+numpy
+mcp>=1.9,<2
+python-dotenv
+mariadb
