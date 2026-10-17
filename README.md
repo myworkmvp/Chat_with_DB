@@ -6,7 +6,7 @@ ASK THE USER, then continue -> schema fetch -> plan (precise question, steps, ac
 CONFIRM_BAND (default 0.05): matches within this margin above SIM_THRESHOLD are confirmed with the user first.
 The React and Streamlit UIs both show every step live.
 
-## Quick start (Docker, demo data)
+## Quick start (pull models)
     ollama pull qwen2.5-coder:7b && ollama pull llama3.1:8b && ollama pull nomic-embed-text
 
 ## Manual start (your own database)
